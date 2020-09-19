@@ -104,3 +104,9 @@
   visibility: visible;
   left: 0;
 }
+
+@media (max-width: 500px) {
+.menu__btn {
+  display: block;
+}
+}
